@@ -1,6 +1,6 @@
 # SQL Analytics & Window Functions Practice — PostgreSQL
 
-A comprehensive collection of 100 SQL queries built on a 
+A comprehensive collection of SQL queries built on a 
 retail dataset (customers, products, sales) covering 
 foundational to advanced PostgreSQL concepts.
 
