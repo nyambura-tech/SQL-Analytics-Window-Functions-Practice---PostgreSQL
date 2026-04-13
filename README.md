@@ -2,7 +2,7 @@
 
 A comprehensive collection of SQL queries built on a 
 retail dataset (customers, products, sales) covering 
-foundational to advanced PostgreSQL concepts.
+foundational to advanced PostgreSQL concepts. 
 
 ## Database Schema
 - **customers** - customer details and membership status
