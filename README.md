@@ -11,9 +11,9 @@ foundational to advanced PostgreSQL concepts.
 
 ## Concepts Covered
 - Basic SELECT, WHERE, GROUP BY, HAVING, ORDER BY
-- JOINS — INNER, LEFT, RIGHT, CROSS
-- Aggregate functions — SUM, COUNT, AVG, MAX, MIN
-- Subqueries — scalar, derived tables
+- JOINS - INNER, LEFT, RIGHT, CROSS
+- Aggregate functions - SUM, COUNT, AVG, MAX, MIN
+- Subqueries - scalar, derived tables
 - CTEs (Common Table Expressions) using WITH
 - Window functions:
   - RANK(), DENSE_RANK()
@@ -21,7 +21,7 @@ foundational to advanced PostgreSQL concepts.
   - PERCENT_RANK()
   - LAG(), LEAD()
   - SUM() OVER(), AVG() OVER()
-- Date functions — date_trunc(), extract()
+- Date functions - date_trunc(), extract()
 
 ## Tools Used
 - PostgreSQL
